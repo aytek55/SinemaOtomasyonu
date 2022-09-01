@@ -1,0 +1,31 @@
+Sinema Otomayonu Programı
+
+
+programı açmak istiyorsanız 
+
+Sinema_Otomasyon\Sinema_Otomasyon\bin\Debug\Sinema_Otomasyon
+dosyasını çalıştırın
+
+
+
+
+
+
+
+
+
+üzerinde değişiklik yapmak veri tabanı bağlantılarını kontrol etmek kod yapısına bakmak için ise 
+
+sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon.sln
+dosyasını visual studyo ile açınız
+
+daha sonra  sinemaOtomasyon\sinemaOtomasyon\veritabani  dosyasındada bulunan 2 adet sinema ve sinema_log dosyasını 
+biilgisayarınızdaki kurulu olan SQL PROGRAMININ  C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA konumuna kopyalayın
+
+sql server management studio  programında database attach yapıp VERİTABABNINI EKLEYİN
+
+daha sonra visual studyodan sql connection stringleri değiştirin 
+
+
+
+

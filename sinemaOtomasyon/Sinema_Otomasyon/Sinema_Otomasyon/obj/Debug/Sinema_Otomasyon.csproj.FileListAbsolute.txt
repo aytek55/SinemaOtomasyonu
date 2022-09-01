@@ -1,0 +1,28 @@
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\bin\Debug\Sinema_Otomasyon.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\bin\Debug\Sinema_Otomasyon.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.Form1.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.filmler.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.seanslar.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.salonlar.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.Bilet_Kes.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\bin\Debug\Sinema_Otomasyon.exe.config
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\bin\Debug\Sinema_Otomasyon.exe
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\bin\Debug\Sinema_Otomasyon.pdb
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.Bilet_Kes.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.filmler.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.Properties.Resources.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.salonlar.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.seanslar.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.csproj.GenerateResource.cache
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.exe
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.pdb
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.biletbilgisi.resources
+C:\Users\ali_a\Downloads\sinemaOtomasyon\sinemaOtomasyon\Sinema_Otomasyon\Sinema_Otomasyon\obj\Debug\Sinema_Otomasyon.anasayfa.resources
